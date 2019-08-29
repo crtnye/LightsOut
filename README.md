@@ -1,3 +1,3 @@
 # LightsOut
-by Courtney Campbell
+by Courtney Campbell \n
 https://github.com/crtnye/LightsOut
